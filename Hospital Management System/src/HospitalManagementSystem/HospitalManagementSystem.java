@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 public class HospitalManagementSystem {
     // Database connection details
-    private static final String url = "jdbc:mysql://localhost:3306/hospital";
-    private static final String username = "root";
-    private static final String password = "Dhanraj@9162";
+    private static final String url = "jdbc:mysql://localhost:3306/DATABASE_NAME";
+    private static final String username = "YOUR_USERNAME";
+    private static final String password = "YOUR_PASSWORD";
 
     public static void main(String[] args) {
         try {
